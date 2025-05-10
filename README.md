@@ -25,20 +25,20 @@ Try it live at: [https://gh-release-stats.streamlit.app/](https://gh-release-sta
 ### 2. Install dependencies
 
 ```bash
-pip install streamlit requests pandas streamlit-aggrid
+pip install streamlit requests pandas
 ```
 
 ### 3. Run the app
 
 ```bash
-streamlit run fetch_gh_metrics_documented.py
+streamlit run fetch_gh_metrics.py
 ```
 
 ## 🛠️ Configuration
 
 When the app starts, enter:
-- GitHub account name (e.g. `adaptivescale`)
-- Repository name (e.g. `rosetta`)
+- GitHub account name (e.g. `myAccount`)
+- Repository name (e.g. `some_repo`)
 
 Click **Fetch Releases** to retrieve and display data.
 
