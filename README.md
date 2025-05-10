@@ -3,6 +3,8 @@
 
 This Streamlit app fetches and visualizes GitHub release metrics for any public repository.
 
+Try it live at: [https://gh-release-stats.streamlit.app/](https://gh-release-stats.streamlit.app/)
+
 ![demo](gh_metrics_demo.gif)
 
 ## 📋 Features
